@@ -4,7 +4,8 @@ function Home() {
   return (
     <div className="">
       <Header />
-      <section className="flex flex-col h-[90vh]  items-center text-center pt-32">
+      
+      <section className=" animate-fade-in-up flex flex-col h-[90vh]  items-center text-center pt-32">
         <div className="flex flex-col bg-[rgba(0,0,0,0.7)] h-[300px] w-[600px] justify-center items-center border-2 border-[rgba(255,255,255,0.7)]">
           <img
             src="https://github.com/matmagamb.png"
@@ -22,7 +23,7 @@ function Home() {
       </section>
       <section className="bg-[rgba(0,0,0,0.7)] border border-red-600  h-[700px] py-5">
         <div className="">
-          <p>teste</p>
+          <p className="animate-fade-in-up">teste</p>
 
         </div>
 
