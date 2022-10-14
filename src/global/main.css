@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-blur h-[100vh] bg-no-repeat bg-center bg-cover bg-fixed text-[#fff] m-0 p-0 overflow-x-hidden;
+  -webkit-font-smoothing: antialiased;
+}
