@@ -97,7 +97,7 @@ function Home() {
               </span>
 
               <div className=" hover:scale-105 transition-all duration-300 flex flex-col items-center  justify-center w-[450px]">
-                <h2 className="text-4xl font-bold mb-6 bg-[rgba(0,4,255,0.5)] w-auto px-6 rounded-full ">web/mobile</h2>
+                <h2 className="text-4xl font-bold mb-6 bg-[rgba(0,4,255,0.5)] w-auto px-6 rounded-full ">Web/Mobile</h2>
                 <p className="text-md  ">
                   Lorem Ipsu dolor set ipsum lorem Ipsu dolor set ipsum Lorem
                   Ipsu Lorem Ipsu dolor set ipsum lorem Ipsu dolor set ipsum
