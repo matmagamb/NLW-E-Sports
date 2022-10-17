@@ -6,9 +6,3 @@ body {
   @apply bg-blur h-[100vh] bg-no-repeat bg-center bg-cover bg-fixed text-[#fff] m-0 p-0 overflow-x-hidden scroll-smooth;
   -webkit-font-smoothing: antialiased;
 }
-@layer utilities {
-  .content-auto {
-    content-visibility: auto;
-    contain-intrinsic-size: 0 500px;
-  }
-}
